@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F112%2FPNG%2F512%2Fpython_18894.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fko%2F%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598%2Fpython%2F17802&tbnid=o2gaWCWjP9WiRM&vet=12ahUKEwiCvNWOsN_xAhVNdpQKHVSIC-MQMygAegUIARCxAQ..i&docid=bnDm5O6oKN1P4M&w=512&h=512&q=python%20icon&ved=2ahUKEwiCvNWOsN_xAhVNdpQKHVSIC-MQMygAegUIARCxAQ"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/></a>
