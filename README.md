@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Science
+🌱 I’m currently learning Data Science
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
